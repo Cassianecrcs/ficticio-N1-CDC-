@@ -1,0 +1,5 @@
+# Caso sanitizado
+Maria, RG 9876543 e CPF 123456789-00 comprou, no dia 01 de outubro de 2026 uma geladeira da marca Brastempra, pela internet, na loja magazine Larissa no valor de R$ 3.500,00. em 07 de outubro, dois dias após receber o produto, percebeu que ele não estava funcionando corretamente, pois não refrigerava os alimentos. Preocupada com o problema, entrou em contato imediatamente com a loja e solicitou a troca da geladeira ou a devolução do dinheiro. Entretanto, a empresa se recusou a atender ao pedido, alegando que o defeito era de fabricação e que não tinha responsabilidade pelo ocorrido. A loja orientou Maria a procurar diretamente a assistência técnica do fabricante. Sentindo-se prejudicada, Maria questionou a decisão, pois havia adquirido o produto pela internet e não tinha qualquer responsabilidade pelo defeito.
+## Pergunta de trabalho
+Quais documentos e limites devem aparecer em uma
+orientação inicial, baseada somente nas fontes do projeto?
